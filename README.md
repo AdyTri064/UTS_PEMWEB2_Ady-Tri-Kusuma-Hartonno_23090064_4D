@@ -1,4 +1,4 @@
 Link Dokumentasi Blogspot
 
 
-(https://github.com/AdyTri064/UTS_PEMWEB2_Ady-Tri-Kusuma-Hartonno_23090064_4D)
+(https://adytri064.blogspot.com/2025/05/implementasi-crud-dengan-fluxui-pada.html)
