@@ -1,9 +1,11 @@
 <x-layouts.app :title="__('Products')">
     <div class="relative mb-6 w-full">
-        <flux:heading size="xl">Products</flux:heading>
-        <flux:subheading size="lg" class="mb-6">Manage data Products</flux:heading>
-            <flux:separator variant="subtle" />
-    </div>
+   <div class="relative mb-6 w-full">
+    <flux:heading size="xl" class="text-center">Products</flux:heading>
+    <flux:subheading size="lg" class="mb-6 text-center">Manage data Products</flux:subheading>
+    <flux:separator variant="subtle" />
+</div>
+
 
     <div class="flex justify-between items-center mb-4">
         <div>
